@@ -9,10 +9,12 @@ List of interesting videos, conference talks and tutorials about Symfony and PHP
 * [2013](#2013)
 * [2012](#2012)
 
+
 ## 2015
 
 * [The evolution of the Rabbit](https://www.youtube.com/watch?v=iCg6t5iedEw) `20:18`
 * [How we build phpBB](https://www.youtube.com/watch?v=i-542m-Ep5I) `53:41`
+* [Symfony Best Practices](https://knpuniversity.com/screencast/symfony-best-practices) `8:42`
 
 ## 2014
 
