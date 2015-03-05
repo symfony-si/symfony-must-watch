@@ -1,6 +1,6 @@
 # Must-watch videos about Symfony
 
-List of interesting videos, conference talks and tutorials about Symfony and PHP. Inspired by `\*-must-watch` trend on GitHub.
+List of interesting videos, conference talks and tutorials about Symfony and PHP. Inspired by `*-must-watch` trend on GitHub.
 Videos listed here are presented mostly in English language and categorized by year.
 
 ## Index
