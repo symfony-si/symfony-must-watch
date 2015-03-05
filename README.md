@@ -1,6 +1,6 @@
 # Must-watch videos about Symfony
 
-List of interesting videos, conference talks, tutorials all about Symfony and PHP.
+List of interesting videos, conference talks, tutorials all about Symfony, Silex and PHP.
 
 Inspired by `*-must-watch` trend on GitHub.
 
@@ -51,6 +51,7 @@ Inspired by `*-must-watch` trend on GitHub.
 ## 2013
 
 * [Symfony Security Voters](https://knpuniversity.com/screencast/symfony-voters) - `14:28`
+* [Silex Anatomy](https://www.youtube.com/watch?v=9VUoIruQNMg) - PHP Benelux Conference 2013, Igor Wiedler - `46:31`
 * [SymfonyCon Warsaw 2013](https://www.youtube.com/playlist?list=PLo7mBDsRHu12SbjRS_botIIdJ51zU0FxP) - `playlist`
 * [Symfony Live Berlin 2013](https://www.youtube.com/playlist?list=PLo7mBDsRHu10DMRsERCl6i-YUzkYqI-se) - `playlist`
 * [Symfony Live Portland 2013](https://www.youtube.com/playlist?list=PLo7mBDsRHu12dJVHaL2Eu5qDUuoe6xq_5) - `playlist`
