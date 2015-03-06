@@ -10,13 +10,14 @@ Inspired by `*-must-watch` trend on GitHub.
 * [2014](#2014)
 * [2013](#2013)
 * [2012](#2012)
-
+* [Other resources](#other-resources)
+* [Contributing](#contributing)
 
 ## 2015
 
-* [The evolution of the Rabbit](https://www.youtube.com/watch?v=iCg6t5iedEw) - `20:18`
-* [How we build phpBB](https://www.youtube.com/watch?v=i-542m-Ep5I) - `53:41`
-* [Symfony Best Practices](https://knpuniversity.com/screencast/symfony-best-practices) - Keep it Simple with @Route and Templates - `8:42`
+* [The evolution of the Rabbit](https://www.youtube.com/watch?v=iCg6t5iedEw) - Neal Brooks - `20:18`
+* [How we build phpBB](https://www.youtube.com/watch?v=i-542m-Ep5I) - Michael Cullum - `53:41`
+* [Symfony Best Practices](https://knpuniversity.com/screencast/symfony-best-practices) - Keep it Simple with @Route and Templates, Ryan Weaver - `8:42`
 
 ## 2014
 
@@ -64,6 +65,13 @@ Inspired by `*-must-watch` trend on GitHub.
 * [Symfony Live Paris 2012](https://www.youtube.com/playlist?list=PLo7mBDsRHu13hC55MDNr4tFV4qPDxFNkZ) - `playlist`
 * [Symfony Live San Francisco 2012](https://www.youtube.com/playlist?list=PLo7mBDsRHu11ChvScWUE7MN1Qo5QVHQEz) - `playlist`
 * [Symfony Live London 2012](https://www.youtube.com/playlist?list=PLo7mBDsRHu11jFjrn_U-Wxiam4roogFug) - `playlist`
+
+## Other resources
+
+* [PHP Must-Watch](https://github.com/phptodayorg/php-must-watch) - must-watch PHP videos
+* [SfPot](https://github.com/SfPot/) - SfPot talks
+* [SymfonyCon](https://github.com/symfonycon) - SymfonyCon conferences talks
+* [SymfonyLive](https://github.com/symfonylive) - Symfony Live conferences talks
 
 ## Contributing
 
