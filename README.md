@@ -21,8 +21,8 @@ Inspired by `*-must-watch` trend on GitHub.
 
 ## 2014
 
-* [Fabien Potencier - My take on PHP](https://www.youtube.com/watch?v=gpNbmEnRLBU) - dotScale 2014 - `18:19`
-* [Speed up your Symfony2 Application and Build Awesome Features with Redis 2](https://www.youtube.com/watch?v=2JcLJtomjuI) - `52:30`
+* [My take on PHP](https://www.youtube.com/watch?v=gpNbmEnRLBU) - dotScale 2014, Fabien Potencier - `18:19`
+* [Speed up your Symfony2 Application and Build Awesome Features with Redis 2](https://www.youtube.com/watch?v=2JcLJtomjuI) - Ricard Clau - `52:30`
 * [SymfonyCon Madrid 2014](https://www.youtube.com/playlist?list=PLo7mBDsRHu12vntE-QqDFH95ELFVS7Fqn):
   * [Keynote](https://www.youtube.com/watch?v=De6uKjvNaBk) - Fabien Potencier - `45:37`
   * [Feature Flags with Symfony](https://www.youtube.com/watch?v=KJKSCbYrNvY) - Benjamin Eberlei - `44:17`
@@ -51,7 +51,7 @@ Inspired by `*-must-watch` trend on GitHub.
 
 ## 2013
 
-* [Symfony Security Voters](https://knpuniversity.com/screencast/symfony-voters) - `14:28`
+* [Symfony Security Voters](https://knpuniversity.com/screencast/symfony-voters) - Ryan Weaver - `14:28`
 * [Silex Anatomy](https://www.youtube.com/watch?v=9VUoIruQNMg) - PHP Benelux Conference 2013, Igor Wiedler - `46:31`
 * [SymfonyCon Warsaw 2013](https://www.youtube.com/playlist?list=PLo7mBDsRHu12SbjRS_botIIdJ51zU0FxP) - `playlist`
 * [Symfony Live Berlin 2013](https://www.youtube.com/playlist?list=PLo7mBDsRHu10DMRsERCl6i-YUzkYqI-se) - `playlist`
