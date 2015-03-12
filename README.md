@@ -19,6 +19,8 @@ Inspired by `*-must-watch` trend on GitHub.
 * [How we build phpBB](https://www.youtube.com/watch?v=i-542m-Ep5I) - Michael Cullum - `53:41`
 * [Symfony Best Practices](https://knpuniversity.com/screencast/symfony-best-practices) - Keep it Simple with @Route and Templates, Ryan Weaver - `8:42`
 
+[Back to top](#must-watch-videos-about-symfony)
+
 ## 2014
 
 * [My take on PHP](https://www.youtube.com/watch?v=gpNbmEnRLBU) - dotScale 2014, Fabien Potencier - `18:19`
@@ -49,6 +51,8 @@ Inspired by `*-must-watch` trend on GitHub.
   * [Implementing data synchro. API for mobile apps w/ Silex](https://www.youtube.com/watch?v=QN3t8es7bME) - Michele Orselli - `41:29`
 * [Symfony Live London 2014](https://www.youtube.com/playlist?list=PLo7mBDsRHu123EqX-kXnE2tLYXtdbVuzf) - `playlist`
 
+[Back to top](#must-watch-videos-about-symfony)
+
 ## 2013
 
 * [Symfony Security Voters](https://knpuniversity.com/screencast/symfony-voters) - Ryan Weaver - `14:28`
@@ -60,11 +64,15 @@ Inspired by `*-must-watch` trend on GitHub.
 * [RESTing](https://www.youtube.com/watch?v=Kkby5fG89K0) - Lukas Kahwe Smith - `56:52`
 * [Standardization the Symfony Way](https://www.youtube.com/watch?v=0erGiEm07b8) - Laracon EU 2013, Fabien Potencier - `1:00:05`
 
+[Back to top](#must-watch-videos-about-symfony)
+
 ## 2012
 
 * [Symfony Live Paris 2012](https://www.youtube.com/playlist?list=PLo7mBDsRHu13hC55MDNr4tFV4qPDxFNkZ) - `playlist`
 * [Symfony Live San Francisco 2012](https://www.youtube.com/playlist?list=PLo7mBDsRHu11ChvScWUE7MN1Qo5QVHQEz) - `playlist`
 * [Symfony Live London 2012](https://www.youtube.com/playlist?list=PLo7mBDsRHu11jFjrn_U-Wxiam4roogFug) - `playlist`
+
+[Back to top](#must-watch-videos-about-symfony)
 
 ## Other resources
 
@@ -73,7 +81,11 @@ Inspired by `*-must-watch` trend on GitHub.
 * [SymfonyCon](https://github.com/symfonycon) - SymfonyCon conferences talks
 * [SymfonyLive](https://github.com/symfonylive) - Symfony Live conferences talks
 
+[Back to top](#must-watch-videos-about-symfony)
+
 ## Contributing
 
 You are welcome to contribute to this list by sending a pull request. Rule of a thumb for adding videos here is that
 the video context is about Symfony and/or PHP and presented mostly in English language.
+
+[Back to top](#must-watch-videos-about-symfony)
