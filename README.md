@@ -18,6 +18,8 @@ Inspired by `*-must-watch` trend on GitHub.
 * [The evolution of the Rabbit](https://www.youtube.com/watch?v=iCg6t5iedEw) - Neal Brooks - `20:18`
 * [How we build phpBB](https://www.youtube.com/watch?v=i-542m-Ep5I) - Michael Cullum - `53:41`
 * [Symfony Best Practices](https://knpuniversity.com/screencast/symfony-best-practices) - Keep it Simple with @Route and Templates, Ryan Weaver - `8:42`
+* [Symfony Live London 2015](https://www.youtube.com/playlist?list=PLo7mBDsRHu1270JkoLAtBIoVhMKg4wmPM)
+* [Symfony Live Paris 2015](https://www.youtube.com/playlist?list=PLo7mBDsRHu10P8J09ofws-V52WFjLcGAx)
 
 [Back to top](#must-watch-videos-about-symfony)
 
