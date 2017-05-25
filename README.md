@@ -5,7 +5,9 @@ List of interesting videos, conference talks, tutorials all about Symfony, Silex
 Inspired by `*-must-watch` trend on GitHub.
 
 ## Index
+
 * [2017](#2017)
+* [2016](#2016)
 * [2015](#2015)
 * [2014](#2014)
 * [2013](#2013)
@@ -14,7 +16,14 @@ Inspired by `*-must-watch` trend on GitHub.
 * [Contributing](#contributing)
 
 ## 2017
+
 * [Building Restful APIs with Symfony Components](https://www.youtube.com/watch?v=8KAgvjxcmDY) -  Victoria Quirante  - PHP UK Conference 2017  - `40:53`
+
+## 2016
+
+* [Symfony Live London 2016](https://www.youtube.com/playlist?list=PLo7mBDsRHu12log3wcw5MYlTk4t-BnVSc)
+
+[Back to top](#must-watch-videos-about-symfony)
 
 ## 2015
 
