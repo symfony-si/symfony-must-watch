@@ -6,6 +6,7 @@ Inspired by `*-must-watch` trend on GitHub.
 
 ## Index
 
+* [2018](#2018)
 * [2017](#2017)
 * [2016](#2016)
 * [2015](#2015)
@@ -15,9 +16,17 @@ Inspired by `*-must-watch` trend on GitHub.
 * [Other resources](#other-resources)
 * [Contributing](#contributing)
 
+## 2018
+
+* [Get Rolling Fast with Symfony Flex](https://www.youtube.com/watch?v=pm0wDHe_Fs0) - Beau Simensen - `35:20`
+
+[Back to top](#must-watch-videos-about-symfony)
+
 ## 2017
 
 * [Building Restful APIs with Symfony Components](https://www.youtube.com/watch?v=8KAgvjxcmDY) -  Victoria Quirante  - PHP UK Conference 2017  - `40:53`
+
+[Back to top](#must-watch-videos-about-symfony)
 
 ## 2016
 
