@@ -18,7 +18,22 @@ Inspired by `*-must-watch` trend on GitHub.
 
 ## 2018
 
-* [Get Rolling Fast with Symfony Flex](https://www.youtube.com/watch?v=pm0wDHe_Fs0) - Beau Simensen - `35:20`
+* [PHP UK Conference 2018](https://www.youtube.com/watch?v=59fbepJZ_3w&list=PL_aPVo2HeGF85tk74MDDOckZUNKg7-qiz):
+  * [Automatic PHP 7 Compatibility Checking Using php7cc](https://www.youtube.com/watch?v=59fbepJZ_3w) - Mark Niebergall - `50:45`
+  * [Performance optimisation: how do I go about it?](https://www.youtube.com/watch?v=4hB7tGcz1l8) - Kat Zien - `52:18`
+  * [Working with Webhooks](https://www.youtube.com/watch?v=kBlmEfljrn0) - Lorna Jane Mitchell - `54:51`
+  * [Climbing the Abstract Syntax Tree](https://www.youtube.com/watch?v=AEfkYUjEuSs) - James Titcumb - `53:29`
+  * [Creating a dashboard with Laravel, Vue and Pusher](https://www.youtube.com/watch?v=3q64HgGmLP4) - Freek Van der Herton - `43:47`
+  * [Build, provision & deploy in the Cloud with Packer, Ansible & Terraform](https://www.youtube.com/watch?v=myy_DGD9JoU) - Thijs Feryn - `48:37`
+  * [Building Websites with Zend Expressive 2](https://www.youtube.com/watch?v=koW1titx9cU) - Rob Allen - `40:44`
+  * [Debugging PHP with Xdebug](https://www.youtube.com/watch?v=4wkHBwkhu7g) - Mark Niebergall - `49:28`
+  * [How Doctrine Caching Can Skyrocket Your Application](https://www.youtube.com/watch?v=PzrbkRZEdHA) - Jachim Coudenys - `53:19`
+  * [Inversion of Control Containers Beyond Constructor Injection](https://www.youtube.com/watch?v=moNNCdLCJr8) - Hannes Van De Vreken - `45:24`
+  * [MySQL 8 -- A New Beginning](https://www.youtube.com/watch?v=LMF2ESRxp7w) - Dave Stokes - `34:24`
+  * [Get Rolling Fast with Symfony Flex](https://www.youtube.com/watch?v=pm0wDHe_Fs0) - Beau Simensen - `35:20`
+  * [Command and (e)mission Control](https://www.youtube.com/watch?v=syCpDX4I8H8) - Barney Hanlon - `41:01`
+  * [Zero to API with Lumen](https://www.youtube.com/watch?v=rwvptziuw7o) - Amanda Folson - `33:06`
+  * [The why and the how of moving to 7.x](https://www.youtube.com/watch?v=l4Nb9xWxuc0) - Wim Godden - `49:24`
 
 [Back to top](#must-watch-videos-about-symfony)
 
